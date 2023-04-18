@@ -1,0 +1,7 @@
+node_modules
+*.json
+*.scss
+.stylelintignore
+.eslintignore
+.prettierignore
+.htmlhintrc
